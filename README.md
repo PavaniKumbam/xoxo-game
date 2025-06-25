@@ -1,6 +1,6 @@
 # xoxo-game
 
-# 🧩 Tic-Tac-Toe Web App with CI/CD (Jenkins, Docker & Kubernetes)
+# 🧩 Gridlock Web App with CI/CD (Jenkins, Docker & Kubernetes)
 
 This project showcases a complete CI/CD pipeline setup for deploying a simple Tic-Tac-Toe web application using **Jenkins**, **Docker**, and **Kubernetes**.
 
