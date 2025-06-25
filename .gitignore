@@ -1,0 +1,21 @@
+# Ignore everything
+/*
+
+# But allow this project folder and its contents
+!/Desktop/
+!/Desktop/tic-tac-toe/
+!/Desktop/tic-tac-toe/**
+
+# Ignore system/user directories
+../../.aws/
+../../.cache/
+../../.ssh/
+../../Documents/
+../../Downloads/
+../../AppData/
+../../Music/
+../../Videos/
+../../OneDrive/
+*.bak
+*.log
+*.tmp
