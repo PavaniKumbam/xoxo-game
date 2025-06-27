@@ -51,7 +51,3 @@ To understand and implement an automated DevOps workflow — from code commit to
   - Ensured high availability using multiple pods
   - Exposed the app using a LoadBalancer
 
----
-
-## 📂 Folder Structure
-
